@@ -1,4 +1,5 @@
-export GITHUB_TOKEN=
+```sh
+export GITHUB_TOKEN=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
 export GITHUB_USER=rokonet8
 export GITHUB_REPO=flux2-kustomize-helm-example2
 
@@ -9,3 +10,4 @@ flux bootstrap github \
     --branch=main \
     --personal \
     --path=clusters/staging
+```
