@@ -5,7 +5,7 @@ For this example we assume a scenario with two clusters: staging and production.
 * https://github.com/fluxcd/flux2-kustomize-helm-example
 
 ```sh
-export GITHUB_TOKEN=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
+export GITHUB_TOKEN=
 export GITHUB_USER=rokonet8
 export GITHUB_REPO=flux2-kustomize-helm-example2
 
